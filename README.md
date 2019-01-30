@@ -1,8 +1,5 @@
 # N point DFT
 
-DFT(Discrete Fourier Transform) is one of the fundamental operations applied on a digital signal.
-This signal will contain finite number of samples from 0,1,...,N-1 samples
-Where N represents number of samples
 
 """N point DFT using Fast Fourier Transform"""
 
