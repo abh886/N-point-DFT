@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-DFT of sinc and square function
+DFT of sinc function
 """
 
 from numpy import sinc,linspace,angle,arange
